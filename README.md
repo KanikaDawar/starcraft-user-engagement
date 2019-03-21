@@ -1,4 +1,5 @@
-# starcraft-user-engagement
+# STARCRAFT USER ENGAGEMENT
+
 ## Predicting user engagement for Star Craft II - predicting total hours played by the user
 
 ## Elena Gillis (emg3sc)
